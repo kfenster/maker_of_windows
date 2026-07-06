@@ -21,7 +21,7 @@ planned_publication: 2026-07-10
 published_at: 2026-07-05
 github_url: https://github.com/kfenster/maker_of_windows/blob/main/essays/ai-across-the-process/ai-across-the-process.md
 canonical_url:
-linkedin_url:
+linkedin_url: https://www.linkedin.com/posts/kurt-fenstermacher_the-bottleneck-isnt-the-code-ugcPost-7479729495709491200-qTL2/
 issue_url:
 ---
 
